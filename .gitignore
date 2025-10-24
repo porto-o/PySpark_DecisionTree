@@ -1,0 +1,8 @@
+.npm/*
+.ipynb_checkpoints/*
+.vscode/*
+.DS_Store
+.ipython/*
+__pycache__/*
+.jupyter/*
+.local/*
